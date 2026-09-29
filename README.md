@@ -19,9 +19,6 @@ Aspiring ML Engineer — Backend & AI Systems
   </a>
 </p>
 
-📍 Bengaluru, Karnataka, India
-🎓 B.Tech — Artificial Intelligence & Machine Learning
-🚀 Passionate about building practical AI-powered solutions
 
 </div>
 
