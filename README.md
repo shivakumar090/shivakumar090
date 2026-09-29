@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm V. Shiva Kumar
+# 👋 Hey there, I'm Shiva Kumar.V
 
 Aspiring ML Engineer — Backend & AI Systems
 
