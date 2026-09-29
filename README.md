@@ -3,7 +3,6 @@
 # 👋 Hey there, I'm Shiva Kumar V
 
 Aspiring ML Engineer — Backend & AI Systems
-
 <p>
   <a href="https://github.com/shivakumar090">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
